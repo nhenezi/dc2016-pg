@@ -185,4 +185,4 @@ def generate_all():
     generate_posts()
 
 if __name__ == '__main__':
-    generate_tag_types()
+    generate_all()
